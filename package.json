@@ -5,7 +5,7 @@
     "repository": "https://github.com/anton-kotenko/shema-check-mongo-wrapper",
     "dependencies": {
         "mongodb": "2.2",
-        "vow": "git://github.com/anton-kotenko/vow#42baf07fc8ca30865fc3b6f4a1b110ffe6635088",
+        "vow-with-domain": "git+https://github.com/bem-node/vow-with-domain#0.3.14",
         "tv4": "1.1.9"
     },
     "devDependencies": {
