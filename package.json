@@ -2,7 +2,7 @@
     "name": "schema-check-mongo-wrapper",
     "version": "0.1.2",
     "main": "./index.js",
-    "repository": "https://github.com/anton-kotenko/shema-check-mongo-wrapper",
+    "repository": "https://github.com/bem-node/schema-check-mongo-wrapper",
     "dependencies": {
         "mongodb": "2.2",
         "vow-with-domain": "git+https://github.com/bem-node/vow-with-domain#55d9b4faceac49362726460cdc3c3664614c5cd1",
