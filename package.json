@@ -1,5 +1,5 @@
 {
-    "name": "schema-check-mongo-wrapper",
+    "name": "schema-check-mongo-wrapper2",
     "version": "0.1.2",
     "main": "./index.js",
     "repository": "https://github.com/bem-node/schema-check-mongo-wrapper",
